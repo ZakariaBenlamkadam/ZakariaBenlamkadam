@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/free-vector/artificial-intelligence-concept-facebook-cover_42089878.htm#fromView=search&page=1&position=0&uuid=f947052d-62b8-4dc8-acce-579c54c1e1a5]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/free-vector/artificial-intelligence-concept-facebook-cover_23-2150376933.jpg?t=st=1709414139~exp=1709417739~hmac=34b4509c6235bea77c29003132b9a63f2b78d6064563e05256b0405e891d3b8f&w=826))]([https://rishavchanda.io](https://medium.com/@benlamkadamzakaria))
 
 <h1 align="center">Hi 👋, I'm Zakaria Benlamkadam.</h1>
 <h3 align="center">A passionate Software and Data Engineering Student</h3>
