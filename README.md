@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/free-vector/artificial-intelligence-concept-facebook-cover_23-2150376933.jpg?t=st=1709414139~exp=1709417739~hmac=34b4509c6235bea77c29003132b9a63f2b78d6064563e05256b0405e891d3b8f&w=826))]([https://rishavchanda.io](https://medium.com/@benlamkadamzakaria))
+
 
 <h1 align="center">Hi 👋, I'm Zakaria Benlamkadam.</h1>
 <h3 align="center">A passionate Software and Data Engineering Student</h3>
@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/ef3yc6BgFAVWWnU1lTWJtK7URnucVx6iMG_9_ghuRtk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL1dzNlQ1/UE43d0h2M2NZOHh5/OC8yMDAuZ2lmP2Np/ZD03OTBiNzYxMWUz/a3ZtbDA5OGt6ZHZl/Z3o1dnYyNHAyMzRy/dTZqMXE0ZncwY3Zv/eTQmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariabenlamkadam&label=Profile%20views&color=0e75b6&style=flat" alt="zakariabenlamkadam" /> </p>
+
 
 - 🌱 I’m currently learning **Spark , Kafka , PowerBI**
 
