@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Spark , Kafka , PowerBI**
+- 🌱 I’m currently learning **JAVA EE , DEEP LEARNING  , NLP ..**
 
 - 🤝 I’m looking to an internship on **Data Field**
 
