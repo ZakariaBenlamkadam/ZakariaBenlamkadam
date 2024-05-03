@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JAVA EE , DEEP LEARNING  , NLP ..**
 
-- 🤝 I’m looking to an internship on **Data Field**
+- 🤝 I’m looking to an internship on **Data or Development Field **
 
 - 📝 I regularly write articles on [https://medium.com/@benlamkadamzakaria](https://medium.com/@benlamkadamzakaria)
 
