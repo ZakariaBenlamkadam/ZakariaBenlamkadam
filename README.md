@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Zakaria Benlamkadam.</h1>
-<h3 align="center">A passionate Software and Data Engineering Student</h3>
+<h3 align="center">A passionate Data Analysis & Data Science Student</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/ef3yc6BgFAVWWnU1lTWJtK7URnucVx6iMG_9_ghuRtk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL1dzNlQ1/UE43d0h2M2NZOHh5/OC8yMDAuZ2lmP2Np/ZD03OTBiNzYxMWUz/a3ZtbDA5OGt6ZHZl/Z3o1dnYyNHAyMzRy/dTZqMXE0ZncwY3Zv/eTQmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif">
 
 
 
-- 🌱 I’m currently learning **JAVA EE , DEEP LEARNING  , NLP ..**
+- 🌱 I’m currently learning **PowerBI , Data Warehousing  , NLP ..**
 
-- 🤝 I’m looking to an internship on **Data or Development Field**
+- 🤝 I’m looking to an internship on **Data Analysis & Data Science Field**
 
 - 📝 I regularly write articles on [https://medium.com/@benlamkadamzakaria](https://medium.com/@benlamkadamzakaria)
 
