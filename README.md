@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariabenlamkadam&show_icons=true&locale=en" alt="zakariabenlamkadam" /></p><br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariabenlamkadam&" alt="zakariabenlamkadam" />
